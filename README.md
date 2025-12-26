@@ -28,7 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-'''
+```
 restaurant.html
 
 <html>
@@ -485,16 +485,13 @@ footer p{
     width:1950px;
     display: block;
 }
-
 ```
 
 ## OUTPUT:
-
-restweb/home.png
-restweb/menu.png
-restweb/admin.png
-restweb/contact.png
-
+![alt text](home.png)
+![alt text](menu.png)
+![alt text](admin.png)
+![alt text](contact.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
