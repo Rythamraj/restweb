@@ -1,0 +1,66 @@
+body{
+    background-image:url(bg.jpg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 80px;
+    
+}
+h1
+{
+    
+    font-weight: bold;
+    font-size: 120px;
+    position: relative;
+    left: 100px;
+    top: 130px;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 0px goldenrod;
+
+}
+
+.items{
+        font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 980px;
+    top: -150px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    background-color: rgb(224, 224, 172);;
+}
+.items a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    text-align: left;
+    font-style: oblique;
+    font-size: 50px;
+    color: rgb(51, 115, 145);
+    position: relative;
+    text-shadow: 3px 3px 0px lightblue;
+
+}
+p{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(95, 43, 87);
+    font-size: 30px;
+    display: inline;
+    text-shadow: 2px 1px 0px rgb(177, 96, 165);
+    position:relative;
+    bottom: 40px;
+
+
+}
+footer p{
+    text-align: center;
+    color: brown;
+    background: gainsboro;
+    margin-bottom: 1%;
+    top: 40px;
+    width:1950px;
+    display: block;
+}

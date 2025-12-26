@@ -1,0 +1,64 @@
+body{
+    background-image:url(bg_res1.jpg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 80px;
+    
+}
+h2
+{
+    
+    font-weight: bold;
+    font-size: 120px;
+    position: relative;
+    left: 100px;
+    top: 200px;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 0px goldenrod;
+
+}
+
+.items{
+        font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 980px;
+    top: -80px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    background-color: rgb(224, 224, 172);
+    display: inline;
+}
+.items a{
+    text-decoration: none;
+    color: black;
+}
+
+.Admin {
+    display: flex;
+    gap: 35px;
+    width: 150%;
+    margin: 100px;
+}
+
+.Position {
+    background-color:rgb(232, 232, 161);
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+}
+.Position img {
+    width: 230px;
+    height: 300px;
+    object-fit: cover;
+}
+footer p{
+    text-align: center;
+    color: brown;
+    background: gainsboro;
+    margin-bottom: 1%;
+    top: 40px;
+    width:1950px;
+    font-size: 30px;
+}

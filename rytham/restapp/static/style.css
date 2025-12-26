@@ -1,0 +1,74 @@
+body{
+    background-image:url(bg_res1.jpg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 80px;
+}
+
+.logo img
+{
+    width: 330px;
+    height: auto;
+    position: absolute;
+    top: -370px;
+    left: 1620px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    position: absolute;
+    top: -500px;
+    left: 450px;
+}
+
+h2{
+    font-size:160px;
+    font-weight: bold;
+    position: relative;
+    top: -300px;
+    left: 12px;
+    text-shadow: 3px 3px 0px goldenrod;
+    font-style: italic;
+    letter-spacing: 3px;
+    border-bottom: 20px ;
+}
+
+p{
+    font-size: 35px;
+    font-weight: lighter;
+    position: relative;
+    top: -340px;
+    left: 12px;
+}
+hr{
+    color: maroon;
+    position: relative;
+    bottom: 380px;
+   
+}
+.items{
+        font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 440px;
+    top: -350px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    border-bottom: 100px;
+    background-color: rgb(224, 224, 172);
+    display: inline;    
+}
+.items a{
+    text-decoration: none;
+    color: black;
+}
+footer p{
+    text-align: center;
+    color: brown;
+    background: gainsboro;
+    margin-bottom: 1%;
+    top: 40px;
+    width:1950px;
+}
